@@ -988,6 +988,7 @@ footer {
 
 .check {
   margin-top: 20px;
+  padding-left: 25px;
   line-height: 1.7;
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
@@ -1011,13 +1012,14 @@ footer {
 
 .check-icon {
   position: absolute;
-  top: 75.5%;
+  top: 76.4%;
   left: 44px;
   width: 16px;
   height: 15px;
   border: 2px solid var(--primary-text-color);
   border-radius: 4px;
   cursor: pointer;
+  margin-right: 8px;
 }
 
 .check-input {
