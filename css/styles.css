@@ -1016,8 +1016,8 @@ footer {
 
 .check-icon {
   position: absolute;
-  top: 76.4%;
-  left: 44px;
+  top: 76%;
+  left: 50px;
   width: 16px;
   height: 15px;
   border: 2px solid var(--primary-text-color);
